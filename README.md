@@ -141,8 +141,6 @@ I'm a **Financial Engineering graduate from USC** with a **Computer Science foun
 
 `Investment Analysis` · `Quantitative Research` · `Portfolio Management` · `Systematic Trading` · `AI + Finance`
 
-**Target firms:** Morgan Stanley · BlackRock · Anthropic · Netflix · Two Sigma · Citadel · D.E. Shaw
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF9933?style=for-the-badge)](https://arjundeshmukh16.github.io)
