@@ -33,7 +33,6 @@ I'm a **Financial Engineering graduate from USC** with a **Computer Science foun
 - 📊 **Quant Research** — CVaR factor strategies, real-time signal generation (USC Directed Research)
 - 🤖 **AI Projects** — SARA (autonomous AI assistant, Springer LNNS recommended), GAN research
 - 🌏 **Global perspective** — Indian private markets + US quantitative research (rare combination)
-- ✈️ **Presented** at AINA-2024, Kitakyushu, Japan
 - 🃏 **Interests:** Competitive chess, poker, active investing, cricket
 
 **Currently:** Open to full-time roles in Investment Analysis, Quantitative Research, Portfolio Management, Systematic Trading · F1 OPT · Available May 2026
@@ -63,7 +62,7 @@ I'm a **Financial Engineering graduate from USC** with a **Computer Science foun
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**SARA: Autonomous AI Model**](https://github.com/ArjunDeshmukh16/Articles-Blogs-and-Research-Papers) | LLM-powered personal assistant (MS Office & Email automation). Recommended for Springer LNNS publication | Python, LLMs |
-| [**Bézier Flow**](https://github.com/ArjunDeshmukh16/B-zier-flow) | Vehicle trajectory optimization via Quadratic/Cubic Bézier curves. Presented at **AINA-2024, Japan** | Python, Math |
+| [**Bézier Flow**](https://github.com/ArjunDeshmukh16/B-zier-flow) | Vehicle trajectory optimization via Quadratic/Cubic Bézier curves | Python, Math |
 | [**MeaLit**](https://github.com/ArjunDeshmukh16/MeaLit) | Personalized food recommendation engine (collaborative + content-based filtering) | Python, ML |
 
 ### 📄 Research Papers
@@ -126,7 +125,6 @@ I'm a **Financial Engineering graduate from USC** with a **Computer Science foun
 ## 🏆 Achievements & Recognition
 
 - 🎓 **USC Financial Engineering** — Graduate (May 2026)
-- 🗾 **AINA-2024 Japan** — Conference presenter, Kitakyushu
 - 📘 **Springer LNNS** — Recommended for publication (ICICV-2024)
 - 📈 **42% portfolio return** — Identified KIMS & Rainbow Hospitals at Aditya Birla Capital
 - 💼 **$500K+ in transactions** — Executed private credit, real estate, and education sector deals at UTI Alternatives
