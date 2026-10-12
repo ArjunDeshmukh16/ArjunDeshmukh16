@@ -2,7 +2,7 @@
 
 Investment Analyst at Cogitative Investments · Finance, Investments & Analytics
 
-[Portfolio](https://arjundeshmukh16.github.io) · [LinkedIn](https://linkedin.com/in/arjun-deshmukh1609) · [Email](mailto:arjundeshmukh52233@gmail.com) · [Current resume](https://arjundeshmukh16.github.io/docs/Arjun_Deshmukh_Resume.pdf)
+[Portfolio](https://arjundeshmukh16.github.io) · [LinkedIn](https://linkedin.com/in/arjun-deshmukh1609) · [Email](mailto:arjundeshmukh52233@gmail.com) · [Resume](https://arjundeshmukh16.github.io/docs/Arjun_Deshmukh_Resume.pdf)
 
 Conversations about technology, financial markets and investing were part of my life long before I graduated in 2024. They sparked a lasting interest in how businesses create value, how risk is priced, and how disciplined decisions shape long-term outcomes.
 
